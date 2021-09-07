@@ -1,0 +1,2 @@
+backports.pbkdf2
+pycryptodome
